@@ -1,11 +1,7 @@
 # 📥 General Course Video Downloader
 *A universal Python script for downloading online course videos.*
 
-[English](#english) | [فارسی](#فارسی)
-
 ---
-
-## English
 
 ### 📌 Overview
 This is a general-purpose Python script to download videos from online course platforms.  
@@ -97,7 +93,5 @@ python download_course_videos.py
 ### 📜 License
 Educational use only. Respect the platform’s terms of service.
 
----
 
-
-</div>
+</
