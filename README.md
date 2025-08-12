@@ -92,6 +92,4 @@ python download_course_videos.py
 
 ### 📜 License
 Educational use only. Respect the platform’s terms of service.
-
-
 </
